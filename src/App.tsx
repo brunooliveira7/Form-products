@@ -15,8 +15,10 @@ export function App() {
   return (
     // Main container
     <div className="p-6 max-w-4xl mx-auto space-y-6">
+      {/* Title */}
+      <h1 className="text-4xl">Products</h1>
+      {/* Filter */}
       <div className="flex items-center justify-between">
-        {/* Filter */}
         <form className="flex items-center gap-2">
           <Input className="w-auto" name="id" placeholder="Search by ID" />
           <Input
@@ -34,10 +36,14 @@ export function App() {
             type="submit"
             variant={"secondary"}
           >
+            <Search className="w-4 h-4 mr-2" />
             Search
           </Button>
         </form>
-        <Button className="cursor-pointer">Add Product</Button>
+        <Button className="cursor-pointer">
+          <PlusCircle className="w-4 h-4 mr-2" />
+          Add Product
+        </Button>
       </div>
       {/* Table */}
       <div className="border rounded-md shadow-sm p-2">
