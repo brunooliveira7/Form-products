@@ -26,14 +26,13 @@ Uma aplicação simples e elegante para gerenciamento de produtos. Construída c
 
 ---
 
-## 🛠️ Funcionalidades Futuras
-Integração com backend para persistência de dados.
+<p align="center">
+  <img alt="Refund-web" src="">
+</p>
 
-Validações de formulário com feedback ao usuário.
-
-Paginação real para grandes volumes de produtos.
-
-Responsividade avançada para dispositivos móveis.
+<p align="center">
+  <img alt="Refund-web" src="">
+</p>
 
 ---
 
