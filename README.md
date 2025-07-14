@@ -1,4 +1,4 @@
-# 🛍️ Product Management App
+# 📦 Product Management App
 
 Uma aplicação simples e elegante para gerenciamento de produtos. Construída com **React**, **TypeScript**, **Tailwind CSS** e **Shadcn UI**, oferece uma interface moderna e interativa para adicionar, listar e filtrar produtos.
 
@@ -26,5 +26,14 @@ Uma aplicação simples e elegante para gerenciamento de produtos. Construída c
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🛠️ Funcionalidades Futuras
+Integração com backend para persistência de dados.
+
+Validações de formulário com feedback ao usuário.
+
+Paginação real para grandes volumes de produtos.
+
+Responsividade avançada para dispositivos móveis.
+
+
 
