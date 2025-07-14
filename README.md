@@ -35,5 +35,11 @@ Paginação real para grandes volumes de produtos.
 
 Responsividade avançada para dispositivos móveis.
 
+---
 
+### ✍️ Autor
+Desenvolvido por Bruno Oliveira 🧠
+
+## 📝 Licença
+Este projeto está sob a licença MIT.
 
