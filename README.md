@@ -10,7 +10,7 @@ Uma aplicação simples e elegante para gerenciamento de produtos. Construída c
 - 🔍 **Filtro** por ID, nome do produto e preço.
 - ➕ **Botão "Adicionar Produto"** com modal (diálogo) interativo.
 - 📝 **Formulário** com campos para nome e preço do produto.
-- 💄 Interface moderna com integração de **Tailwind**, **Shadcn UI** e **lucide-react icons**.
+- 📱 Interface moderna com integração de **Tailwind**, **Shadcn UI** e **lucide-react icons**.
 
 ---
 
@@ -22,16 +22,16 @@ Uma aplicação simples e elegante para gerenciamento de produtos. Construída c
 - [Tailwind CSS]
 - [Shadcn UI]
 - [Radix UI]
-- [Lucide Icons](
+- [Lucide Icons]
 
 ---
 
 <p align="center">
-  <img alt="Refund-web" src="">
+  <img alt="Refund-web" src="https://github.com/brunooliveira7/Form-products/blob/main/public/Layout%20-%20Form-products.png">
 </p>
 
 <p align="center">
-  <img alt="Refund-web" src="">
+  <img alt="Refund-web" src="https://github.com/brunooliveira7/Form-products/blob/main/public/Layout%20-%20Form-products%202.png">
 </p>
 
 ---
