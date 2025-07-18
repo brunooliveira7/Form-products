@@ -16,13 +16,13 @@ Uma aplicação simples e elegante para gerenciamento de produtos. Construída c
 
 ## 🧱 Tecnologias Utilizadas
 
-- [React]
-- [TypeScript]
-- [Vite]
-- [Tailwind CSS]
-- [Shadcn UI]
-- [Radix UI]
-- [Lucide Icons]
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Shadcn UI
+- Radix UI
+- Lucide Icons
 
 ---
 
