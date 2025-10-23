@@ -1,44 +1,43 @@
 # 📦 Product Management App
 
-Uma aplicação simples e elegante para gerenciamento de produtos. Construída com **React**, **TypeScript**, **Tailwind CSS** e **Shadcn UI**, oferece uma interface moderna e interativa para adicionar, listar e filtrar produtos.
+A simple and elegant application for product management. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Shadcn UI**, it offers a modern and interactive interface to add, list, and filter products.
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- ✅ **Listagem de Produtos** com título e botões com ícones.
-- 🔍 **Filtro** por ID, nome do produto e preço.
-- ➕ **Botão "Adicionar Produto"** com modal (diálogo) interativo.
-- 📝 **Formulário** com campos para nome e preço do produto.
-- 📱 Interface moderna com integração de **Tailwind**, **Shadcn UI** e **lucide-react icons**.
+- ✅ **Product Listing** with title and icon buttons.  
+- 🔍 **Filter** by ID, product name, and price.  
+- ➕ **"Add Product" Button** with interactive modal (dialog).  
+- 📝 **Form** with fields for product name and price.  
+- 📱 Modern interface with integration of **Tailwind**, **Shadcn UI**, and **lucide-react icons**.
 
 ---
 
-## 🧱 Tecnologias Utilizadas
+## 🧱 Technologies Used
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Shadcn UI
-- Radix UI
+- React  
+- TypeScript  
+- Vite  
+- Tailwind CSS  
+- Shadcn UI  
+- Radix UI  
 - Lucide Icons
 
 ---
 
 <p align="center">
-  <img alt="Refund-web" src="https://github.com/brunooliveira7/Form-products/blob/main/public/Layout%20-%20Form-products.png">
+  <img alt="Product Management App" src="https://github.com/brunooliveira7/Form-products/blob/main/public/Layout%20-%20Form-products.png">
 </p>
 
 <p align="center">
-  <img alt="Refund-web" src="https://github.com/brunooliveira7/Form-products/blob/main/public/Layout%20-%20Form-products%202.png">
+  <img alt="Product Management App" src="https://github.com/brunooliveira7/Form-products/blob/main/public/Layout%20-%20Form-products%202.png">
 </p>
 
 ---
 
-### ✍️ Autor
-Desenvolvido por Bruno Oliveira 🧠
+### ✍️ Author
+Developed by Bruno Oliveira 🧠
 
-## 📝 Licença
-Este projeto está sob a licença MIT.
-
+## 📝 License
+This project is under the MIT License.
